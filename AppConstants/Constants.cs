@@ -10,10 +10,12 @@ namespace AutomationFramework.AppConstants
     {
         public static class UrlLinks
         {
-            public const string contactUsSuccessLink = "https://automationteststore.com/index.php?rt=content/contact/success",
-                                registrationSuccessLink = "https://automationteststore.com/index.php?rt=account/success",
-                                purchaseItemSuccessLink = "https://automationteststore.com/index.php?rt=checkout/success",
-                                loginSuccessLink = "https://automationteststore.com/index.php?rt=account/account";
+            public const string registrationSuccessLink = "https://automationteststore.com/index.php?rt=account/success",
+                                loginSuccessLink = "https://automationteststore.com/index.php?rt=account/account",
+                                contactUsSuccessLink = "https://automationteststore.com/index.php?rt=content/contact/success",
+                                purchaseItemSuccessLink = "https://automationteststore.com/index.php?rt=checkout/success";
         }
+
+      
     }
 }

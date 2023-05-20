@@ -13,6 +13,12 @@
                                 username = "HoracioNajjaciTester",
                                 password = "HoracioGaser";
         }
+
+        public static class Login
+        {
+            public const string username = "uross",
+                                password = "uross";
+        }
     }
 }
 
