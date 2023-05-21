@@ -24,10 +24,10 @@ namespace AutomationFramework.Pages
         //Lokatori
         By loginOrRegisterLink = By.LinkText("Login or register");
         By contactUsLink = By.LinkText("Contact Us");
-        By addToCartButton = By.XPath("//a[@data-id='88']");
-        By addToCartButton1 = By.XPath("//a[@data-id='66']");
+        By addToCartButton = By.XPath("//a[@data-id='114']");
+        By addToCartButton1 = By.XPath("//a[@data-id='65']");
         By cartButton = By.XPath("//ul[@class='nav topcart pull-left']/li[@class='dropdown hover']/a");
-        By productLink = By.XPath("//a[@title='ck one Summer 3.4 oz']");
+        By productLink = By.XPath("//a[@title='Allegiant by Veronica Roth']");
         By currencyDropdown = By.XPath("//ul[@class='nav language pull-left']/li[@class='dropdown hover']");
         By currencyEuro = By.XPath("//li/a[contains(., '€ Euro')]");
         By currencyPound = By.XPath("//li/a[contains(., '£ Pound Sterling')]");

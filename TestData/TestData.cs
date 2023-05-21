@@ -37,6 +37,11 @@
             public const string username = "HoracioNajjaciTester",
                                 email = "horacio@gmail.com";
         }
+
+        public static class AddToCart
+        {
+            public const string productName = "Allegiant by Veronica Roth";
+        }
     }
 }
 

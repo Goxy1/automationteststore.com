@@ -29,5 +29,7 @@ namespace AutomationFramework.Utils
         public ForgotLoginPage ForgotLoginPage => GetPages<ForgotLoginPage>();
         public ForgotPasswordPage ForgotPasswordPage => GetPages<ForgotPasswordPage>();
         public RegisterPage RegisterPage => GetPages<RegisterPage>();
+        public CartPage CartPage => GetPages<CartPage>();
+        public ProductPage ProductPage => GetPages<ProductPage>();  
     }
 }
