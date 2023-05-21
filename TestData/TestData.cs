@@ -7,7 +7,7 @@
             public const string firstName = "Horacio",
                                 lastName = "Pagani",
                                 email = "horacio",
-                                address = "Emilia-Romagna ",
+                                address = "Emilia-Romagna",
                                 city = "Bologna",
                                 zip = "41018",
                                 username = "HoracioNajjaciTester",
@@ -41,6 +41,16 @@
         public static class AddToCart
         {
             public const string productName = "Allegiant by Veronica Roth";
+        }
+
+        public static class CheckOut
+        {
+            public const string firstName = "Horacio",
+                                lastName = "Pagani",
+                                email = "horacio@gmail.com",
+                                address = "Emilia-Romagna",
+                                city = "Bologna",
+                                zip = "41018";
         }
     }
 }
