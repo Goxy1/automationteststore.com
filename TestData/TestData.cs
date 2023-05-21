@@ -31,6 +31,12 @@
             public const string lastName = "Pagani",
                                 email = "horacio@gmail.com";
         }
+
+        public static class ForgotPassword
+        {
+            public const string username = "HoracioNajjaciTester",
+                                email = "horacio@gmail.com";
+        }
     }
 }
 

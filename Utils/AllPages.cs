@@ -27,5 +27,6 @@ namespace AutomationFramework.Utils
         public CheckOutPage CheckOutPage => GetPages<CheckOutPage>();
         public ContactUsPage ContactUsPage => GetPages<ContactUsPage>();
         public ForgotLoginPage ForgotLoginPage => GetPages<ForgotLoginPage>();
+        public ForgotPasswordPage ForgotPasswordPage => GetPages<ForgotPasswordPage>();
     }
 }
