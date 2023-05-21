@@ -22,8 +22,14 @@
         public static class ContactUs
         {
             public const string firstName = "Horacio",
-                                email = "horacioPagani@gmail.com",
+                                email = "horacio@gmail.com",
                                 message = "To truly know something, you must love it passionately.Don't put limits on creativity.Rear-engined cars were magic to me.";
+        }
+
+        public static class ForgotLogin
+        {
+            public const string lastName = "Pagani",
+                                email = "horacio@gmail.com";
         }
     }
 }
