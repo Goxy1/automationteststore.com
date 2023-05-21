@@ -52,6 +52,10 @@
                                 city = "Bologna",
                                 zip = "41018";
         }
+        public static class SearchProduct
+        {
+            public const string productName = "Allegiant by Veronica Roth";
+        }
     }
 }
 
