@@ -19,6 +19,12 @@
             public const string username = "HoracioNajjaciTester",
                                 password = "HoracioGaser";
         }
+        public static class ContactUs
+        {
+            public const string firstName = "Horacio",
+                                email = "horacioPagani@gmail.com",
+                                message = "To truly know something, you must love it passionately.Don't put limits on creativity.Rear-engined cars were magic to me.";
+        }
     }
 }
 
