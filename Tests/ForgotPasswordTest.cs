@@ -19,9 +19,9 @@ namespace AutomationFramework.Tests
             Pages.ForgotPasswordPage.ForgotYourPassword(TestData.TestData.ForgotPassword.username, TestData.TestData.ForgotPassword.email);
 
             //cuva poruku za uporedjivanje
-            // string message = Pages.ForgotPasswordPage.GetTextFromSuccessMessage();
+            //string message = Pages.ForgotPasswordPage.GetTextFromSuccessMessage();
             //assert da li se poruke podudaraju
-            // Assert.AreEqual(AppConstants.Constants.Messages.forgottenPasswordSuccessMessage, message);
+            //Assert.AreEqual(AppConstants.Constants.Messages.forgottenPasswordSuccessMessage, message);
         }
     }
 }
