@@ -7,7 +7,7 @@ namespace AutomationFramework.Tests
         [SetUp]
         public void Setup()
         {
-            //Pozivamo metoda da klikne na login ili register link(ceo button tj link ima ime login or register)
+            //Pozivamo metodu da klikne na login ili register link(ceo button tj link ima ime login or register)
             Pages.HomePage.ClickLoginOrRegisterLink();
         }
 

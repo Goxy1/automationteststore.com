@@ -23,5 +23,6 @@ namespace AutomationFramework.Utils
         public RegisterUserPage RegisterUserPage => GetPages<RegisterUserPage>();
         public HomePage HomePage => GetPages<HomePage>();   
         public LogInPage LogInPage => GetPages<LogInPage>();
+        public AccountPage AccountPage => GetPages<AccountPage>();
     }
 }

@@ -16,8 +16,8 @@
 
         public static class Login
         {
-            public const string username = "uross",
-                                password = "uross";
+            public const string username = "HoracioNajjaciTester",
+                                password = "HoracioGaser";
         }
     }
 }
